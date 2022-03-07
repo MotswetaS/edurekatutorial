@@ -1,2 +1,4 @@
 Hi this is a session from edurekaedureka1.txt
+Adding a new line
+wq
 
